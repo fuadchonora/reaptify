@@ -4,8 +4,9 @@ A simple **mobile-app UI template** built with **[create-react-app](https://crea
 
 ## Features
 
-- AppBar & NavBar
+- AppBar, SideBar & NavBar
 - Themes
+- Contexts
 - History
 - PWA
 
