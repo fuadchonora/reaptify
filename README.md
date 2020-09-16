@@ -9,6 +9,24 @@ A simple mobile app ui template built with **react** and **material-ui**.
 - History
 - PWA
 
+## Installation
+
+```
+git clone https://github.com/fuadchonora/reaptify.git app-name
+```
+
+```
+cd app-name
+```
+
+```
+npm install
+```
+
+```
+npm start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
