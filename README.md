@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Reaptify
+
+A simple mobile app ui with react and material-ui.
 
 ## Available Scripts
 
