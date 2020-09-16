@@ -1,6 +1,6 @@
 # Reaptify
 
-A simple mobile app ui with react and material-ui.
+A simple mobile app ui with **react** and **material-ui**.
 
 ## Available Scripts
 
