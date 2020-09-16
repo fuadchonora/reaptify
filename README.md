@@ -1,6 +1,6 @@
 # Reaptify
 
-A simple mobile app ui template built with **react** and **material-ui**.
+A simple **mobile-app UI template** built with **[create-react-app](https://create-react-app.dev/docs/getting-started/)** and **[material-ui](https://material-ui.com/)**.
 
 ## Features
 
@@ -12,9 +12,9 @@ A simple mobile app ui template built with **react** and **material-ui**.
 ## Installation
 
 ```
-git clone https://github.com/fuadchonora/reaptify.git app-name
+git clone https://github.com/fuadchonora/reaptify.git my-app
 
-cd app-name
+cd my-app
 
 npm install
 
@@ -60,30 +60,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+To learn Material-UI, check out the [Material-UI documentation](https://material-ui.com/).
