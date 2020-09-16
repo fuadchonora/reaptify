@@ -13,11 +13,7 @@ export default function Page3Page() {
 	const classes = useStyles();
 	const { goToUrl } = useContext(AppContext);
 
-	const links = [
-		{ title: 'Link Aaa', url: '/page3/aaa' },
-		{ title: 'Link Bbb', url: '/page3/bbb' },
-		{ title: 'Link Ccc', url: '/page3/ccc' },
-	];
+	const links = [];
 
 	return (
 		<Grid container>

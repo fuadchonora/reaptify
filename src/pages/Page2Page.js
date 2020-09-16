@@ -13,11 +13,7 @@ export default function Page2Page() {
 	const classes = useStyles();
 	const { goToUrl } = useContext(AppContext);
 
-	const links = [
-		{ title: 'Link Aaa', url: '/page2/aaa' },
-		{ title: 'Link Bbb', url: '/page2/bbb' },
-		{ title: 'Link Ccc', url: '/page2/ccc' },
-	];
+	const links = [];
 
 	return (
 		<Grid container>
