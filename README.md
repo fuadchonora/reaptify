@@ -1,6 +1,13 @@
 # Reaptify
 
-A simple mobile app ui with **react** and **material-ui**.
+A simple mobile app ui template built with **react** and **material-ui**.
+
+## Features
+
+- AppBar & NavBar
+- Theme Customization
+- History
+- PWA
 
 ## Available Scripts
 
